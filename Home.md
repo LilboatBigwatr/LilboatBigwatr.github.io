@@ -35,7 +35,7 @@
       window.location.href = "home.html";
     };
     document.getElementById('introVideo').addEventListener('ended', () => {
-      window.location.href = "home.html";
+      window.location.href = "index.html";
     });
   </script>
 </body>
